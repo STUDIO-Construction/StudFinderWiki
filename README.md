@@ -5,7 +5,7 @@ The StudFinder Wiki provides documentation for the systems and objects that make
 ## Objects
 
 - Project
-- [Structure](./objects/structure)
+- [Structure](./objects/structure.md)
 - Member
 - Connection
 - MemberType
