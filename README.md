@@ -2,10 +2,10 @@
 
 The StudFinder Wiki provides documentation for the systems and objects that make up StudFinder.
 
-## StudFinder Objects
+## Objects
 
 - Project
-- Structure
+- [Structure](./Objects/Structure.md)
 - Member
 - Connection
 - MemberType
