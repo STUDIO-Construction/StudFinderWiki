@@ -17,6 +17,11 @@ The StudFinder Wiki provides documentation for the systems and objects that make
 - Solver
 - Regions
 
+
+## Workflows
+
+- Grasshopper
+
 ## Geometry
 
 - Doubly Connected Edge List

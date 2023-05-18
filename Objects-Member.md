@@ -1,0 +1,2 @@
+# Member
+Members are the fundamental building blocks of StudFinder Projects. Members are individual fabricatable objects that are defined primarily by an Axis (Line) that runs the length of the Member. Members also have a MemberType, which prescribes much of the properties and behavior of the Member, including its profile/3D geometry and its path to fabrication.
