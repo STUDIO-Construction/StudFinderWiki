@@ -20,7 +20,7 @@ The StudFinder Wiki provides documentation for the systems and objects that make
 
 ## Workflows
 
-- Grasshopper
+- [Grasshopper](./Workflows-Grasshopper.md)
 
 ## Geometry
 
