@@ -9,7 +9,7 @@ There are two main entry points/approaches to generating StudFinder models in Gr
     - With Regions, you work at a higher level, providing the 2D Regions that StudFinder will automatically populate with StudFinder Objects (Members, Connections, etc.).
 
 ## Member Based
-![Create Structure with a list of Members as an input](assets\workflows\Grasshopper_CreateStructure.JPG)
+![Create Structure with a list of Members as an input](assets/workflows/Grasshopper_CreateStructure.JPG)
 
 The "Create Structure" component is the focal point of a Member based approach. You will feed your Members (and optionally Connections, Assemblies, Types, and other StudFinder Objects) into this component, and it will "Solve" the constrained properties of the Objects. Constrained properties include Member Normal, Member Type, and Connection Type.
 
@@ -19,11 +19,11 @@ Use the "Create Member" component to set up Members that StudFinder will ultimat
 ### Normal Guide 
 Providing a Normal Guide for a Member is particularly important. The solver will prioritize potential Normal vectors based on their similarity to the Normal Guide vector you provide. The Guide does not need to be precise; it just needs to point roughly in the direction you would prefer for the Member Normal. Here are a few patterns that are helpful to quickly generate rough Normal Guides.
 
-![Normal Guide by cross product with plane normal](assets\workflows\Grasshopper_NormalGuide_CrossProduct.JPG)
+![Normal Guide by cross product with plane normal](assets/workflows/Grasshopper_NormalGuide_CrossProduct.JPG)
 
 If you created your Member Axis on a specific plane, you can use the normal of that plane directly as the guide (if you want the member normal facing in or out of that plane), or you can use the plane normal indirectly by taking the cross product of the plane normal with the Member Axis (if it is a Line) which results in a Normal Guide lying on the plane.
 
-![Normal Guide by midpoints](assets\workflows\Grasshopper_NormalGuide_MidPoints.JPG)
+![Normal Guide by midpoints](assets/workflows/Grasshopper_NormalGuide_MidPoints.JPG)
 
 If you are creating a collection of Members, you may be able to use the centroid of your Member Axes to generate Normal Guide vectors. An easy way to do this is create a vector for each Axis, from the mid point of the Axis to the group centroid (which could be the "average" of all Axis mid points, for example).
 
