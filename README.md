@@ -11,7 +11,7 @@ The StudFinder Wiki provides documentation for the systems and objects that make
 - MemberType
 - ConnectionType
 - Assembly
-- [Stud Operation](./Objects-StudOperation.md)
+- [StudOperation](./Objects-StudOperation.md)
 
 ## Systems
 
