@@ -2,7 +2,7 @@
 
  Stud Operations are operations that Stud Machines perform at specific locations on a Stud Member. Stud Operations consist of (1) a location on the Member to which they belong and (2) a Stud Operation Type that is available on the Stud Machine that will fabricate the Member.
 
-<img src="assets\objects\StudOperation_CommonTypes.png" alt="Face Name" style="max-width: 75%; max-height: 75%;" />
+![Common Types](assets\objects\StudOperation_CommonTypes.png)
  
 ## Location
 The Location of a Stud Operation is simply the distance from the start of the Member Axis to the center point of the Operation.
@@ -24,11 +24,11 @@ __Face Name__
 
 Face Name is represented by an enum that includes values for the Web, Left and Right Flange, and Left and Right Lip. "Left" and "Right" are based on looking at the stud profile from the start of the stud and toward the end.
 
-<img src="assets\objects\StudOperation_FaceName.JPG" alt="Face Name" style="max-width: 50%; max-height: 50%;" />
+![Face Name](assets\objects\StudOperation_FaceName.JPG)
 
 __Face Location__
 
 The center of each face is Location 0 (most punches are located at 0 on a face). From there, right/up are typically positive and left/down are typically negative. The exception to these rules is the Left Lip, which is organized as a mirror of the Right Lip in order to simplify calculation of operations (which tend to be mirrored).
 
-<img src="assets\objects\StudOperation_FaceLocation.JPG" alt="Face Name" style="max-width: 50%; max-height: 50%;" />
+![Face Location](assets\objects\StudOperation_FaceLocation.JPG)
 
