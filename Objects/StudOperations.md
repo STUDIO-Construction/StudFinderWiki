@@ -1,4 +1,4 @@
-# Stud Operation
+# Stud Operations
 
  Stud Operations are operations that Stud Machines perform at specific locations on a Stud Member. Stud Operations consist of (1) a location on the Member to which they belong and (2) a Stud Operation Type that is available on the Stud Machine that will fabricate the Member.
 

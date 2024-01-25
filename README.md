@@ -2,27 +2,49 @@
 
 The StudFinder Wiki provides documentation for the systems and objects that make up StudFinder.
 
-## Objects
+## Welcome
+- [Welcome](/Welcome/Welcome.md)
+- [Getting Started](/Welcome/GettingStarted.md)
+
+## Integrations
+
+- [Rhino](/Integrations/Rhino.md)
+- [Grasshopper](/Integrations/Grasshopper.md)
+- [Revit](/Integrations/Revit.md)
+
+## StudFinder Objects
 
 - Project
-- [Structure](./Objects-Structure.md)
-- [Member](./Objects-Member.md)
+- Assets
+- User Settings
+- [Structure](Objects/Structure.md)
+- [Member](Objects/Member.md)
 - Connection
 - MemberType
 - ConnectionType
 - Assembly
-- [StudOperation](./Objects-StudOperation.md)
+- Operations
+    - [StudOperations](Objects/StudOperations.md)
 
-## Systems
+## Regions
 
-- Solver
-- Regions
+### Strategies
+- Boundary Strategies
+    - Face In
+    - Similarity To Load Direction
 
+- Division Strategies
+    - Jamb Divide Strategy
+    - Wall Panelizer
 
-## Workflows
+- Fill Strategies
+    - Parallel Member Series
+    - Member Generator
+    - Header
 
-- [Grasshopper](./Workflows-Grasshopper.md)
+- Name Strategies
+    - Standard Naming
 
-## Geometry
-
-- Doubly Connected Edge List
+### Recipes
+- Built In
+- Creating Your Own
