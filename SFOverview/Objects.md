@@ -4,13 +4,14 @@ StudFinder utilizes a series of objects that you will need to be familiar with. 
 
 ## General Objects
 
-- [Structure](Objects/Structure.md) <!--UPDATE-->
-- [Member](Objects/Member.md) <!--UPDATE-->
-- [Connection](Objects/Connection.md) <!--BUILD OUT-->
-- [MemberType](Objects/MemberType.md) <!--BUILD OUT-->
-- [ConnectionType](Objects/ConnectionType.md) <!--BUILD OUT-->
-- [Assembly](Objects/Assembly.md) <!--BUILD OUT-->
-- [Operations](Objects/Operations.md) <!--BUILD OUT-->
+- [Structure](Objects/Structure.md)
+- [Assembly](Objects/Assembly.md)
+- [Member](Objects/Member.md)
+- [Connection](Objects/Connection.md) 
+- [MemberType](Objects/MemberType.md)
+- [ConnectionType](Objects/ConnectionType.md)
+- [Machine](Objects/Machine.md)
+- [Operations](Objects/Operations.md)
     - [StudOperations](Objects/StudOperations.md)
 
 ## Regions

@@ -1,6 +1,6 @@
 # StudFinder Wiki
 
-The StudFinder Wiki provides documentation for the systems and objects that make up StudFinder.
+The StudFinder Wiki provides documentation for the using and understanding StudFinder.
 
 ## Welcome
 - [Welcome](Welcome/Welcome.md) <!--Needs chatGPT text review-->

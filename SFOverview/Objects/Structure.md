@@ -1,6 +1,16 @@
 # Structure
 A Structure is the highest level Assembly type in a Stud Finder Project. It contains a collection of Members, as well as a collection of Connections that define interconnectivity between the Members. A Structure can also contain a collection of nested sub-Assemblies, groups of Members and/or Assemblies that form the building blocks of higher level Assemblies.
 Structures maintain constraints associated with both Members and Connections. Creating a structure involves a “solving” of these constraints (i.e. the structure sets values on Member and Connection variables that are consistent with constraints). It is possible that a structure can be over-constrained, in which case a solution does not exist, and the structure will fail to generate. In this case, you must adjust your design to make it solvable.
+
+Property | Type | Description
+---------| ---------| ---------
+Name | *string* | The name of the object
+Members | *Table\<Member>* | The original axis of the member, without adjusted endpoints
+Connections | *Table\<Connection>* | The connections involved in this structure
+Assemblies | *Table\<IAssembly>* | The assemblies involved in this structure
+MemberTypes | *List\<IMemberType>* | The potential types of members involved in this structure
+ConnectionTypes | *List\<ConnectionType>* | The potential types of connections involved in this structure
+
 ## Create Structure
 To create a structure, use the StructureBuilder class. At a minimum, you must provide at least 1 Member to the StructureBuilder. Other structure properties are optional—if you do not supply them, they will be generated automatically based on default settings.
 ### Add Members
