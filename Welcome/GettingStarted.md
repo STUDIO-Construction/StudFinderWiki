@@ -1,6 +1,8 @@
 # Getting Started
 
-Welcome to the STUD-IO StudFinder Closed Beta Program! To ensure you have a seamless experience, please follow the installation instructions below for integrating StudFinder into Rhino, Grasshopper, and Revit.
+Welcome to the STUD-IO StudFinder Closed Beta Program! StudFinder is currently supported in Rhino 7, Grasshopper v1.0, and Revit 2022-2024.
+
+To ensure you have a seamless experience, please follow the installation instructions below for integrating StudFinder into Rhino, Grasshopper, and Revit.
 
 ## Rhino Installation:
 1. Download StudFinder Installer:
@@ -21,15 +23,16 @@ Welcome to the STUD-IO StudFinder Closed Beta Program! To ensure you have a seam
 
 1. Download Grasshopper Component:
     - Visit the StudFinder [downloads](www.studfinder.io/downloads) page.
-    - Download the StudFinder Grasshopper component.
-2. Install Grasshopper Component:
+    - Download the StudFinder Grasshopper plugin.
+2. Install StudFinder Grasshopper:
     - Open Grasshopper.
     - Go to File > Special Folders > Components folder.
-    - Copy the downloaded StudFinder component into this folder.
+    - Unblock, unzip and copy the downloaded StudFinderGH folder into this folder.
 3. Restart Grasshopper:
-    - Close and reopen Grasshopper to ensure the StudFinder component is loaded.
+    - Close and reopen Rhino/Grasshopper to ensure the StudFinder component is loaded.
 4. Access StudFinder in Grasshopper:
-    - Look for the StudFinder components in the Grasshopper toolbar.
+    - Sign-in to your STUD-IO account on the StudFinder tab at the top of the Grasshopper window
+    - Look for the StudFinder tab in the Grasshopper toolbar.
     - Drag and drop StudFinder components into your Grasshopper canvas.
 
 ## Revit Installation:
@@ -40,9 +43,7 @@ Welcome to the STUD-IO StudFinder Closed Beta Program! To ensure you have a seam
 2. Run Revit Installer:
     - Double-click on the downloaded installer file.
     - Follow the installation prompts to complete the process.
-3. Load StudFinder in Revit:
-    - Launch Revit.
-    - Open a project or create a new one.
-    - Go to the Add-Ins tab and click on StudFinder to enable the plugin.
-4. Verify Integration:
-    - Ensure that StudFinder tools are accessible within the Revit environment.
+3. Verify Integration:
+    - Ensure the StudFinder ribbon appears at the top of your Revit session.
+
+For further help with intallation of any StudFinder integrations please reach out via our community forum or message us at [help@studio-construction.com](mailto:help@studio-construction.com).
