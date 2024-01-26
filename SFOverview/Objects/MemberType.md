@@ -9,4 +9,4 @@ Width | *double* | The width of the MemberType section, measured perpendicular t
 LengthUnits | *LengthUnits* | The units that lengths/distances are defined in for the member type
 Machine | *IMachine* | The machine associated with the MemberType
 
-See also [StudMemberType](MemberTypes/StudMemberType.md), [HSSMemberType](MemberTypes/HSSMemberType.md) <!--build out additional properties on specific member types-->
+<!-- See also [StudMemberType](MemberTypes/StudMemberType.md), [HSSMemberType](MemberTypes/HSSMemberType.md) -->

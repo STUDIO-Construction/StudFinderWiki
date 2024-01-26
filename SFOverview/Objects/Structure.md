@@ -11,6 +11,7 @@ Assemblies | *Table\<IAssembly>* | The assemblies involved in this structure
 MemberTypes | *List\<IMemberType>* | The potential types of members involved in this structure
 ConnectionTypes | *List\<ConnectionType>* | The potential types of connections involved in this structure
 
+<!-- 
 ## Create Structure
 To create a structure, use the StructureBuilder class. At a minimum, you must provide at least 1 Member to the StructureBuilder. Other structure properties are optional—if you do not supply them, they will be generated automatically based on default settings.
 ### Add Members
@@ -23,3 +24,4 @@ If you add any Connections that contain references to (IDs of) Members that are 
 ### Add MemberTypes and ConnectionTypes
 You can add specific MemberTypes and ConnectionTypes that you want to be included in the Structure. If you do not add MemberTypes or ConnectionTypes, the default Types will be used.
 You can pull Types from the TypeLibrary or from the current Project to be added to the StructureBuilder. Adding a Type to the StructureBuilder will also add the Type to the current Project, if it has not already been added.
+-->

@@ -7,4 +7,4 @@ Name | *string* | The name of the object
 MemberExporter | *IMemberExporter* | The height of the MemberType section, measured parallel to a member normal
 LengthUnits | *LengthUnits* | The units that lengths/distances are defined in for the member type
 
-See also [StudMachine](Machine/StudMachine.md) <!--build out additional properties on specific machine types-->
+<!-- See also [StudMachine](Machine/StudMachine.md)-->
