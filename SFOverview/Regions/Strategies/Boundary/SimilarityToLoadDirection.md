@@ -5,4 +5,4 @@ The similarity to load direction strategy operates on the MemberTypes of members
 
 To use this strategy, you must provide the MemberType to use for the vertical members and the MemberType to use for the horizontal members. Additionally, a threshold (a number between 0.0 and 1.0) can be defined to determine whether a member is classified as vertical or horizontal.  If no threshold is provide by the user it is by default set to 0.5.
 
-![Parallel Member](/assets/objects/regions/recipes/strategies/boundary/SimilarityToLoadDirection.png/)
+![Parallel Member](/assets/objects/regions/strategies/boundary/SimilarityToLoadDirection.png/)
