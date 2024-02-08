@@ -4,36 +4,25 @@ Welcome to the STUD-IO StudFinder Closed Beta Program! StudFinder is currently s
 
 To ensure you have a seamless experience, please follow the installation instructions below for integrating StudFinder into Rhino, Grasshopper, and Revit.
 
-## Rhino Installation:
-1. Download StudFinder Installer:
-    - Visit the StudFinder [downloads](www.studfinder.io/downloads) page.
-    - Locate the Rhino plugin section and download the Rhino installer.
-2. Run Installer: 
-    - Double-click on the downloaded installer file.
-    - Follow the on-screen instructions to complete the installation process.
-3. Integration with Rhino:
-    - Launch Rhino.
-    - Navigate to the Plugins menu.
-    - Enable the StudFinder plugin.
+## Rhino / Grasshopper Installation:
+1. Open Rhino
+    - With Rhino installed launch the software and make sure it is up to date.
+2. Open Package Manager: 
+    - Input the command "PackageManger" into the command line opening the package manager window.
+3. Search For "StudFinder":
+    - Ensure that "Include pre-releases" is checked in the lower left corner of the window.
+    - Upon finding the StudFinder package select the version you want to install and click install.
+
+    ![installpackagemanager](/assets/gettingstarted/rhinograsshopper/installpackagemanager.jpg)
+
 4. Verify Installation:
-    - Open a new or existing project.
-    - Confirm that StudFinder tools and features are accessible within Rhino.
+    - Restart Rhino.
+    - Be sure that the StudFinder side panel is open, if it is not open it by right clicking on your panels gear and selecting "StudFinder" from the list.
+    - Login to the panel using your STUD-IO credentials to enable StudFinder Rhino commands and components in Grasshopper.
 
-## Grasshopper Installation:
-
-1. Download Grasshopper Component:
-    - Visit the StudFinder [downloads](www.studfinder.io/downloads) page.
-    - Download the StudFinder Grasshopper plugin.
-2. Install StudFinder Grasshopper:
-    - Open Grasshopper.
-    - Go to File > Special Folders > Components folder.
-    - Unblock, unzip and copy the downloaded StudFinderGH folder into this folder.
-3. Restart Grasshopper:
-    - Close and reopen Rhino/Grasshopper to ensure the StudFinder component is loaded.
-4. Access StudFinder in Grasshopper:
-    - Sign-in to your STUD-IO account on the StudFinder tab at the top of the Grasshopper window
-    - Look for the StudFinder tab in the Grasshopper toolbar.
-    - Drag and drop StudFinder components into your Grasshopper canvas.
+    ![openpanel](/assets/gettingstarted/rhinograsshopper/openpanel.jpg)
+    
+    ![loginpanel](/assets/gettingstarted/rhinograsshopper/loginpanel.jpg)
 
 ## Revit Installation:
 
@@ -46,4 +35,4 @@ To ensure you have a seamless experience, please follow the installation instruc
 3. Verify Integration:
     - Ensure the StudFinder ribbon appears at the top of your Revit session.
 
-For further help with intallation of any StudFinder integrations please reach out via our community forum or message us at [help@studio-construction.com](mailto:help@studio-construction.com).
+For further help with intallation of any StudFinder integrations please reach out via our [community forum](https://studio.discourse.group/).
