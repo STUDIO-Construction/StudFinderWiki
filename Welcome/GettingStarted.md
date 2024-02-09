@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to the STUD-IO StudFinder Closed Beta Program! StudFinder is currently supported in Rhino 7, Grasshopper v1.0, and Revit 2022-2024.
+StudFinder is currently supported in Rhino 7, Grasshopper v1.0, and Revit 2022-2024.
 
 To ensure you have a seamless experience, please follow the installation instructions below for integrating StudFinder into Rhino, Grasshopper, and Revit.
 
@@ -24,6 +24,7 @@ To ensure you have a seamless experience, please follow the installation instruc
     
     ![loginpanel](/assets/gettingstarted/rhinograsshopper/loginpanel.jpg)
 
+<!--- 
 ## Revit Installation:
 
 1. Download Revit Plugin:
@@ -36,3 +37,4 @@ To ensure you have a seamless experience, please follow the installation instruc
     - Ensure the StudFinder ribbon appears at the top of your Revit session.
 
 For further help with intallation of any StudFinder integrations please reach out via our [community forum](https://studio.discourse.group/).
+--->
