@@ -1,22 +1,26 @@
 # Welcome
 
-Welcome to the STUD-IO family! We are thrilled to have you on board as a participant in our exclusive StudFinder Beta Program. Your enthusiasm for innovation and commitment to shaping the future of StudFinder makes you an invaluable member of our community.
+Welcome to the STUD-IO family! We are thrilled to have you on board as a StudFinder user. Your enthusiasm for innovation and commitment to exploring our software makes you an invaluable member of our community.
 
-As a beta tester, you are at the forefront of experiencing the latest features and functionalities that StudFinder has to offer. Your feedback is incredibly important to us, as it helps us refine and enhance the user experience. We encourage you to explore the platform thoroughly, test its capabilities, and share your insights with us.
+As a user of the most versatile light gauge framing software in the world, you are at the forefront of experiencing the latest features and functionalities for designing light gauge framing. Your feedback is incredibly important to us, as it helps us refine and enhance our software. We encourage you to explore StudFinder, push its capabilities, and share your insights with us via our [community forums](https://studio.discourse.group/).
 
-Here are a few key points to get you started:
+--- 
 
-- **Explore with Confidence:** Feel free to navigate through the StudFinder platform, test various features, and familiarize yourself with the interface. Your exploration will play a crucial role in shaping the final version.
+This Wiki is designed to help you get started with StudFinder and ease your transition into using a new software in your workflows. We've outlined the areas of this Wiki that will guide you as you begin to explore StudFinder.
 
-- **Feedback Matters:** If you encounter any issues, have suggestions for improvements, or simply want to share your thoughts, don't hesitate to provide feedback. Your input is instrumental in making StudFinder the best it can be.
+#### [Integrations](/README.md)
 
-- **Community Collaboration:** Engage with fellow beta testers in our dedicated community forums. Share your experiences, learn from others, and contribute to the collaborative spirit that defines the STUD-IO community.
+The integrations section provides information on how to use StudFinder in each individual platform. Here, you will learn about specific commands and components for the integration you are interested in, as well as find example files to help you get started on each integration.
 
-- **Updates and Announcements:** Stay tuned for regular updates and announcements regarding the beta program. We'll keep you informed about new features, bug fixes, and any other important information.
+#### [StudFinder Overview](/README.md)
 
-We appreciate your commitment to helping us create a top-notch product, and we are confident that your participation will contribute to the success of StudFinder.
+The overview section provides an explanation of common elements in StudFinder across all platforms. It covers the common user interface (UI) and the types of elements you will frequently encounter, such as members, connections, assemblies, and structures. This overview will help you build a solid foundation of knowledge to effectively use StudFinder in your workflows.
 
-Thank you once again for being a part of the STUD-IO StudFinder Beta Program. We look forward to embarking on this exciting journey together!
+--- 
+
+We appreciate you being a StudFinder user and hope you will enjoy exploring all that it can do for your light gauge design workflows.  Please do not hesitate to reach out to us if you have ideas for improvements, new features or find any bugs along the way.  
+
+Thank you for choosing StudFinder. We're excited to embark on this journey with you!
 
 Best Regards,
 

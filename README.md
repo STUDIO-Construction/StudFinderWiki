@@ -3,8 +3,8 @@
 The StudFinder Wiki provides documentation for the using and understanding StudFinder.
 
 ## Welcome
-- [Welcome](Welcome/Welcome.md) <!--Needs chatGPT text review-->
-- [Getting Started](Welcome/GettingStarted.md) <!--Needs chatGPT text review-->
+- [Welcome](Welcome/Welcome.md) 
+- [Getting Started](Welcome/GettingStarted.md) 
 
 ## Integrations
 
