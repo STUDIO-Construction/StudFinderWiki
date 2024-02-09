@@ -6,7 +6,7 @@ Thank you for subscribing to StudFinder! We're thrilled to have you on board and
 
 As a valued user of our software, you now have access to a wide range of features and benefits, including:
 
-- **Regions**: *Regions* reinvisions the way you design light gauge panels.  Leveraging intelligent strategies and recipes, *regions* simplifies and automates much of a 2d panel design work allowing you to spend less time manually manipulating your stud layouts.
+- **Regions**: Regions reinvisions the way you design light gauge panels.  Leveraging intelligent strategies and recipes, regions simplifies and automates much of a 2d panel design work allowing you to spend less time manually manipulating your stud layouts.
 
 - **Parametric Framing**: Leverage StudFinder in Revit or Rhino alone or harness the potential of parametric modeling via Grasshopper and Rhino.Inside.  StudFinder is the only light gauge framing software available that allows users to take full control of their automated workflows for light gauge framing.
 
