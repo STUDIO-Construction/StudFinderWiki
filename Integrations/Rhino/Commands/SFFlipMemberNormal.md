@@ -1,4 +1,4 @@
-# SFDeleteMembers
+# SFFlipMemberNormal
 
 Allows you to reverse the normal of one or more selected members. The analytical axis of the member(s) will remain in the same place and the normal will be reversed. 
 

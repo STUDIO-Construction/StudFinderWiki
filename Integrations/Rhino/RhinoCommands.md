@@ -1,29 +1,31 @@
 # Rhino Commands
 
+Commands in Rhino are accessed through the Rhino command line. To execute a command, type the command and press enter. Each command will prompt you for the required input step by step. To learn more about a specific command, click on the corresponding item below.
+
 ## Create
-[SFCreateStructure](/Integrations/Rhino/Commands/SFCreateStructure.md)
+[SFCreateStructure](./Commands/SFCreateStructure.md)
 
-[SFCreateRegion](/Integrations/Rhino/Commands/SFCreateRegion.md)
+[SFCreateRegion](./Commands/SFCreateRegion.md)
 
-[SFCreateRegionFromSurfaces](/Integrations//Rhino/Commands/SFCreateRegionFromSurfaces.md)
+[SFCreateRegionFromSurfaces](./Commands/SFCreateRegionFromSurfaces.md)
 
 ## Modify
 
 ### Member
-[SFAddMember](/Integrations/Rhino/Commands/SFAddMember.md)
+[SFAddMember](./Commands/SFAddMember.md)
 
-[SFModifyMembers](/Integrations/Rhino/Commands/SFModifyMembers.md)
+[SFModifyMembers](./Commands/SFModifyMembers.md)
 
-[SFDeleteMembers](/Integrations/Rhino/Commands/SFDeleteMembers.md)
+[SFDeleteMembers](./Commands/SFDeleteMembers.md)
 
-[SFFlipMemberNormal](/Integrations/Rhino/Commands/SFFlipMemberNormal.md)
+[SFFlipMemberNormal](./Commands/SFFlipMemberNormal.md)
 
-[SFAddExtensionDetail](/Integrations/Rhino/Commands/SFAddExtensionDetail.md)
+[SFAddExtensionDetail](./Commands/SFAddExtensionDetail.md)
 
 ### Operation
-[SFAddOperation](/Integrations/Rhino/Commands/SFAddOperation.md)
+[SFAddOperation](./Commands/SFAddOperation.md)
 
-[SFAddOperationOnCurves](/Integrations/Rhino/Commands/SFAddOperationOnCurves.md)
+[SFAddOperationOnCurves](./Commands/SFAddOperationOnCurves.md)
 
 [SFAddOperationsOnPlanes](/Integrations/Rhino/Commands/SFAddOperationsOnPlanes.md)
 
