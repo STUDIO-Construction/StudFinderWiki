@@ -3,74 +3,66 @@
 ## Create
 [SFCreateStructure](/Integrations/Rhino/Commands/SFCreateStructure.md)
 
-[SFCreateRegion]()
+[SFCreateRegion](/Integrations/Rhino/Commands/SFCreateRegion.md)
 
-[SFCreateRegionFromSurfaces]()
+[SFCreateRegionFromSurfaces](/Integrations//Rhino/Commands/SFCreateRegionFromSurfaces.md)
 
 ## Modify
 
 ### Member
-[SFAddMember]()
+[SFAddMember](/Integrations/Rhino/Commands/SFAddMember.md)
 
-[SFModifyMembers]()
+[SFModifyMembers](/Integrations/Rhino/Commands/SFModifyMembers.md)
 
-[SFDeleteMembers]()
+[SFDeleteMembers](/Integrations/Rhino/Commands/SFDeleteMembers.md)
 
-[SFFlipMemberNormal]()
+[SFFlipMemberNormal](/Integrations/Rhino/Commands/SFFlipMemberNormal.md)
 
-[SFAddExtensionDetail]()
+[SFAddExtensionDetail](/Integrations/Rhino/Commands/SFAddExtensionDetail.md)
 
 ### Operation
-[SFAddOperation]()
+[SFAddOperation](/Integrations/Rhino/Commands/SFAddOperation.md)
 
-[SFAddOperationOnCurves]()
+[SFAddOperationOnCurves](/Integrations/Rhino/Commands/SFAddOperationOnCurves.md)
 
-[SFAddOperationsOnPlanes]()
+[SFAddOperationsOnPlanes](/Integrations/Rhino/Commands/SFAddOperationsOnPlanes.md)
 
-[SFEditOperations]()
+[SFEditOperations](/Integrations/Rhino/Commands/SFEditOperations.md)
 
 ### Connection
-[SFAddValidConnectionsOfType]()
+[SFAddValidConnectionsOfType](/Integrations/Rhino/Commands/SFAddValidConnectinosOfType.md)
 
-[SFDisconnectMembers]()
+[SFDisconnectMembers](/Integrations/Rhino/Commands/SFDisconnectMembers.md)
 
 ### Assembly
-[SFDeleteAssemblies]
-[SFSwitchMemberAssembly]
+[SFDeleteAssemblies](/Integrations/Rhino/Commands/SFDeleteAssemblies.md)
+
+[SFSwitchMemberAssembly](/Integrations/Rhino/Commands/SFSwitchMemberAssembly.md)
 
 ### Structures
-[SFCombineStructures]
-[SFExtractMembersFromStructure]
-[SFDeleteStructures]
-[SFApplyStandardNaming]
+[SFCombineStructures](/Integrations/Rhino/Commands/SFCombineStructures.md)
+
+[SFExtractMembersFromStructure](/Integrations/Rhino/Commands/SFExtractMembersFromStructure.md)
+
+[SFDeleteStructures](/Integrations/Rhino/Commands/SFDeleteStructures.md)
+
+[SFApplyStandardNaming](/Integrations/Rhino/Commands/SFApplyStandardNaming.md)
 
 ## Select
-[SFSelectAssemblies]
-[SFSelectStructures]
-[SFSelMembers]
+[SFSelectAssemblies](/Integrations/Rhino/Commands/SFSelectAssemblies.md)
+
+[SFSelectStructures](/Integrations/Rhino/Commands/SFSelectStructures.md)
 
 ## Draw
-[MakeFrameDrawing]
+[MakeFrameDrawing](/Integrations/Rhino/Commands/MakeFrameDrawing.md)
     
 ## Import/Export
-[SFSaveProject]
-[SFSaveSelectedObjects]
-[SFImportProject]
-[GetMemberBrep]
-[GetMemberCurves]
+[SFSaveProject](/Integrations/Rhino/Commands/SFSaveProject.md)
 
+[SFSaveSelectedObjects](/Integrations/Rhino/Commands/SFSaveSelectedObjects.md)
 
+[SFImportProject](/Integrations/Rhino/Commands/SFImportProject.md)
 
+[GetMemberBrep](/Integrations/Rhino/Commands/GetMemberBrep.md)
 
-
-
-
-
-
-
-
-
-
-
-
-SFSwitchMemberAssembly
+[GetMemberCurves](/Integrations/Rhino/Commands/GetMemberCurves.md)
